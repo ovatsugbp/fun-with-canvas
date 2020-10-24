@@ -6,8 +6,7 @@
 - HTML5
 
 <p align="center">
-  <a href="" rel="noopener">
-  <img width=600px height=300px src="giphy.gif" alt="screenshot"></a>
+  <iframe src="https://giphy.com/embed/EXXfVkEPBsjGgIOD0a" width="480" height="260" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/EXXfVkEPBsjGgIOD0a"></a></p>
 </p>
 
 ### Author
