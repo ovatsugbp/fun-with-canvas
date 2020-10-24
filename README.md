@@ -1,4 +1,4 @@
-# Fun With HTML5 Canvas
+<p align="center"> # Fun With HTML5 Canvas </p>
 8th day of JavaScript30 created by [Wes Bos](https://github.com/wesbos).
 
 ### 🛠 Tools:
